@@ -6,4 +6,4 @@ The data folder contains three data instances data file already formated for dir
 ## Algorithms
 The e2vrp folder contains all neccessary files for implementing 4 metaheuristic algorithms - Genetic Algorithm, Particle Swarm Optimization, Grey wolf optimization & whale optimization algorithm.
 ## Test 
-The results can be reproduced be using the three jupiter notebooks in the test folder. these jupiter notebooks can be directly run on google colab for testing the results.
+The results can be reproduced be using the three jupiter notebooks in the test folder. these jupiter notebooks can be directly run on google colab for testing the results. Just loading the notebook and running all will create the required results.
